@@ -37,8 +37,9 @@ The first run downloads the local embedding model (~100 MB); subsequent runs are
 - Use a Linux plan for Python/torch compatibility.
 - Cold starts may include a brief model download delay.
 
-Live demo: https://rag-demo-app-bvgthfbga2evbbeh.centralus-01.azurewebsites.net
+Live demo: https://public-policy-rag-demo-azure.streamlit.app/
 
 Feedback, issues, and contributions welcome. 
+
 
 This project reflects practical experience with real-world RAG challenges and is intended as a functional learning example.
